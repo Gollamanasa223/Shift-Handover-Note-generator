@@ -1,0 +1,8 @@
+[
+  {"timestamp": "2026-06-13T08:15:00", "author": "Asha", "channel": "#incidents", "message": "DB connection pool maxed out on prod-db-2, seeing timeouts"},
+  {"timestamp": "2026-06-13T08:20:00", "author": "Ravi", "channel": "#incidents", "message": "restarted the pool, monitoring now"},
+  {"timestamp": "2026-06-13T09:00:00", "author": "Asha", "channel": "#incidents", "message": "pool issue back again, escalating"},
+  {"timestamp": "2026-06-13T10:30:00", "author": "Meera", "channel": "#general", "message": "deployed hotfix for login redirect bug, looks stable"},
+  {"timestamp": "2026-06-13T11:00:00", "author": "Ravi", "channel": "#incidents", "message": "keeping an eye on disk usage on log server, at 78%"},
+  {"timestamp": "2026-06-13T11:45:00", "author": "Asha", "channel": "#incidents", "message": "DB pool issue still unresolved, increased pool size temporarily"}
+]
