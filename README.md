@@ -168,3 +168,17 @@ The application validates:
 * PDF export
 * Dashboard analytics
 * Historical trend analysis
+
+## Watch video
+  https://drive.google.com/file/d/1PO3Jmj5GGTW2XHkh2tfFdidHN-CBody3/view?usp=drivesdk 
+
+---
+## Test Cases
+ https://github.com/Gollamanasa223/Shift-Handover-Note-generator/blob/main/tests/TESTCASES.md
+
+---
+## Sample data
+  https://github.com/Gollamanasa223/Shift-Handover-Note-generator/tree/main/data
+---
+  
+
