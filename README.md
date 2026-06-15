@@ -48,7 +48,9 @@ The application processes the last 12 hours of operational activity, merges dupl
 ## Project Structure
 
 ```text
-Shift-Handover-Note-Generator/
+
+
+SHIFT-HANDOVER-SYSTEM/
 │
 ├── data/
 │   ├── discord.json
@@ -57,11 +59,12 @@ Shift-Handover-Note-Generator/
 ├── outputs/
 │   └── sample_output.md
 │
-├── Screenshots/
+├── screenshots/
 │   ├── generated_output.png
 │   └── uploadimage.png
 │
 ├── src/
+│   ├── __init__.py
 │   ├── external_data.py
 │   ├── llm_helper.py
 │   ├── processor.py
@@ -69,15 +72,19 @@ Shift-Handover-Note-Generator/
 │
 ├── tests/
 │   ├── __init__.py
-│   └── test_basic.py
+│   ├── test_basic.py
+│   └── TESTCASES.md
 │
-├── .env
+├── team_members_resumes/
+│   └── (resume files)
+│
+├── .env                
+├── .gitignore
 ├── ai_usage_note.md
 ├── app.py
 ├── prompts.md
 ├── README.md
 └── requirements.txt
-
 
  ## Installation
 
